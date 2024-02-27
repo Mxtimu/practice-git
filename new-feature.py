@@ -1,2 +1,2 @@
 feature = "new"
-print(feature +" " + "feature")
+print(feature +" " + "feature" + " " + "1.0")
